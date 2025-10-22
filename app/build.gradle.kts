@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.autsing.emptyactivity"
-    compileSdk = 36
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.autsing.emptyactivity"
         minSdk = 26
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
